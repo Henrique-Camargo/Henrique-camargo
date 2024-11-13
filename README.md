@@ -6,6 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Henrique-Camargo/Henrique-Camargo/output/snake.svg" alt="Snake animation" />
 
+###
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Henrique! A passionate software engineering student from Brazil.
