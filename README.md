@@ -34,10 +34,10 @@
 - 
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
+<div align="center>
+![745cc90fcc688569610f84bc5d2b2fd6](https://github.com/user-attachments/assets/a99c76a8-34af-4c31-984d-e89314c03d4e)
+</div>
+  
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
