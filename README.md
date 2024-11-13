@@ -9,7 +9,7 @@
 ###
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Henrique! A passionate software engineering student from Brazil.
+  Hi 👋, I'm Rick to close friends. Just kidding, my name is Henrique. A passionate software engineering student from Brazil.
 
   - 🌱 I’m currently Software Engineering student at Cruzeiro do Sul University
 
