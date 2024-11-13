@@ -4,6 +4,8 @@
     <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
 
+<img src="https://raw.githubusercontent.com/Henrique-Camargo/Henrique-Camargo/output/snake.svg" alt="Snake animation" />
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Henrique! A passionate software engineering student from Brazil.
@@ -34,9 +36,9 @@
 - 
 
 <!-- GIF -->
-<div align="center>
-![745cc90fcc688569610f84bc5d2b2fd6](https://github.com/user-attachments/assets/a99c76a8-34af-4c31-984d-e89314c03d4e)
-</div>
+<p align="left">
+  <img align="center" src="https://raw.githubusercontent.com/Henrique-Camargo/Henrique-camargo/refs/heads/main/745cc90fcc688569610f84bc5d2b2fd6.gif" width="750" height="auto" alt="Imagem">
+</p>
   
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
