@@ -13,14 +13,14 @@
 
   - 🌱 I’m currently Software Engineering student at Cruzeiro do Sul University
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with mobile development with Android and IOS.
+  - 🔭 Looking for my first opportunity as a backend developer using Java and Spring Boot
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 20 years old, currently living in Brazil. software engineering student with a working knowledge of English. I have experience with SQL, Kotlin, and Java, and I am currently studying Flutter and Dart. My main focus is on advancing my skills in mobile development
+  - 💬 I’m 20 years old, currently living in Brazil. I’m a Software Engineering student with working English proficiency. I have experience with SQL, NoSQL, and Java, and I’m currently focusing on backend development with Spring Boot and web services.
 
   - ⚡ I like reading, a good manga, or comics, as well as watching movies, anime and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
@@ -49,8 +49,6 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
@@ -61,11 +59,6 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
     <img width="12" />
   </div>
