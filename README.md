@@ -32,6 +32,7 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
